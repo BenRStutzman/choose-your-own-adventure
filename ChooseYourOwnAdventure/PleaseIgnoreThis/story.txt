@@ -1,0 +1,91 @@
+0
+
+It's a lovely fall day, and you're hiking in the woods.
+You come to a fork in the trail.
+
+Do you:
+
+1) Take the path on the left?
+2) Take the path on the right?
+
+
+1
+
+You take the path on the left, and soon encounter a large sun bear.
+
+What do you do?
+
+3) Fight
+4) Flee
+
+
+3
+
+You slap the sun bear upside the snout...
+...
+Uh oh, that seems to have made it angry.
+...
+The bear rears back on its hind legs and prepares to devour you.
+
+The end.
+
+
+4
+
+You sprint away from the bear as fast as you can.
+...
+You were running so fast that you become disoriented.
+Have you been on this path before?
+...
+You arrive at a suspiciously familiar fork in the trail.
+
+Do you:
+
+1) Take the path on the left?
+2) Take the path on the right?
+
+
+2
+
+You continue down the right path, and come to the edge of a deep,
+narrow ravine. There's an old rope bridge strung across it, but it doesn't
+look all that sturdy.
+
+What do you do?
+
+5) Walk across the bridge very carefully
+6) Turn around
+
+
+5
+
+Here goes nothing... you cautiously step onto the rope bridge.
+...
+It creaks and sways as you inch across...
+...
+You've made it about halfway when there's a terrifying snapping sound, and
+the far end of the bridge tears free from the cliff. So long, cruel world!
+
+The end.
+
+
+6
+
+You're too chicken to try the bridge, but better safe than sorry. You turn
+around and get back to the intersection you were at before.
+
+Which path do you take?
+
+1) The one to your right
+7) The one that goes back to the trailhead
+
+
+7
+
+Too much adventure for one day, huh? OK, you head back to the trailhead.
+...
+You arrive at the parking lot and get in your car. As you drive home,
+you're glad to be alive, but you have a nagging feeling that there's still
+some adventure out there that you missed... maybe next time.
+
+The end.
