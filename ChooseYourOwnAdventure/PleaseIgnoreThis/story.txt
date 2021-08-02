@@ -1,6 +1,7 @@
 0
 
 It's a lovely fall day, and you're hiking in the woods.
+...
 You come to a fork in the trail.
 
 Do you:
