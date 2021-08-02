@@ -2,7 +2,7 @@
 
 An easy way to create a text-based adventure game that can be played in the console. You write the story, and players will be prompted to go through it and make choices. It can be as simple or complicated as you want!
 
-![screenshot](https://raw.githubusercontent.com/BenRStutzman/choose-your-own-adventure/master/Pictures/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/BenRStutzman/choose-your-own-adventure/master/Pictures/screenshot.jpg)
 
 ## Writing the story
 
